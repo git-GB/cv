@@ -7,7 +7,7 @@ header {
 }
 
 body {
-    background-color: #F2F2F2;
+    background-color: #00f322;
     color: #000000;
 }
 
@@ -15,4 +15,8 @@ p {
     color: #012029;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
 
+}
+
+nav {
+    background-color:rgb(255, 255, 250);
 }
